@@ -108,7 +108,6 @@
 
     <string name="hh01">Cluster Number</string>
     <string name="hh02">Verify PSU Identity </string>
-    <string name="hh021">کیا آپ اوپر دئیے گئے شہر/گاؤں میں موجود ہیں؟</string>
     <string name="hh03">Is this the first Tablet used for linelisting in this PSU?</string>
     <string name="hh031">Yes</string>
     <string name="hh032">No</string>
@@ -117,16 +116,6 @@
     <string name="hh01c"> Name of the village/Town </string>
     <string name="hh07">Type of structure? </string>
     <string name="hh0701">Residential</string>
-    <string name="hh0702">گندم کے آٹے کی چکی (رسمی) </string>
-    <string name="hh0703">گندم کے آٹے کی چکی (غیررسمی) </string>
-    <string name="hh0704">گندم کے آٹے کا مل (فلورمل)</string>
-    <string name="hh0705">گندم کے آٹے کی دکان (تھوک فروش)</string>
-    <string name="hh0706">گندم کے آٹے کی دکان (خوردہ فروش)</string>
-    <string name="hh0707">نان شاپ</string>
-    <string name="hh0708">فوڈ ریستوران</string>
-    <string name="hh0709">بیکری</string>
-    <string name="hh0710">گندم کے اناج کی دکان (خرید و فروخت)</string>
-    <string name="hh0711">بیج/کھاد سپلائر</string>
     <string name="hh0712">Shop/Market</string>
     <string name="hh0713">Mosque/Church/Temple </string>
     <string name="hh0714">School/Collage/University</string>
@@ -143,20 +132,16 @@
     <string name="hh0802">No</string>
     <string name="hh10">Number of Families</string>
     <string name="hh11">Name of Household Head</string>
-
     <string name="hh12">Total number of family members</string>
-    <string name="hh13">Are there any married women living in the
-household who is aged between 15 to 49 year?</string>
+    <string name="hh13">Are there any married women living in the household who is aged between 15 to 49 year?</string>
     <string name="hh1301">Yes </string>
     <string name="hh1302">No</string>
     <string name="hh13a">No.of MWRAs</string>
-    <string name="hh13a_info">) تولیدی عمر کی خاتون (ماں) کا نام اور بچوں کی تعداد کو اس تعداد کے مطابق دہرایا جائے گا(</string>
-    <string name="hh14">Is there any adolescent (Boy/Girl) living in the
-household who is aged between 10-19 year of age
-(Married/Unmarried)?</string>
+    <string name="hh14">Is there any adolescent (Boy/Girl) living in the household who is aged between 10-19 year of age (Married/Unmarried)?</string>
     <string name="hh1401">Yes</string>
     <string name="hh1402">No</string>
     <string name="hh14a">No. of Adolescents </string>
+
     <string name="hh15"> کیا اس گھر میں مذید کوئی خاندان رہائش پزیر ہے </string>
 
     <string name="hh16">18 سال یا اس سے زیادہ کی تولیدی عمر کی خاتون (ماں) کا نام؟</string>

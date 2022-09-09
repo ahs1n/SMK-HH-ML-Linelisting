@@ -108,7 +108,6 @@
 
     <string name="hh01">ڪلسٽر نمبر</string>
     <string name="hh02">پي ايس يو سڃاڻپ جي تصديق</string>
-    <string name="hh021">کیا آپ اوپر دئیے گئے شہر/گاؤں میں موجود ہیں؟</string>
     <string name="hh03">ڇا هي پهريون ٽيبليٽ هن PSU لائين لسٽنگ لاء استعمال ڪيو پيو وڃي؟</string>
     <string name="hh031">ھا</string>
     <string name="hh032">نه</string>
@@ -117,16 +116,6 @@
     <string name="hh01c"> ڳوٺ يا ٽائون جو نالو </string>
     <string name="hh07"> تعميراتي ساخت </string>
     <string name="hh0701">رھائشي</string>
-    <string name="hh0702">گندم کے آٹے کی چکی (رسمی) </string>
-    <string name="hh0703">گندم کے آٹے کی چکی (غیررسمی) </string>
-    <string name="hh0704">گندم کے آٹے کا مل (فلورمل)</string>
-    <string name="hh0705">گندم کے آٹے کی دکان (تھوک فروش)</string>
-    <string name="hh0706">گندم کے آٹے کی دکان (خوردہ فروش)</string>
-    <string name="hh0707">نان شاپ</string>
-    <string name="hh0708">فوڈ ریستوران</string>
-    <string name="hh0709">بیکری</string>
-    <string name="hh0710">گندم کے اناج کی دکان (خرید و فروخت)</string>
-    <string name="hh0711">بیج/کھاد سپلائر</string>
     <string name="hh0712">دڪان/مارڪيٽ</string>
     <string name="hh0713">مسجد/چرچ/مندر</string>
     <string name="hh0714">اسڪول/ڪاليج/يونيورسٽي</string>
@@ -149,7 +138,6 @@
     <string name="hh1301">ھا </string>
     <string name="hh1302">نه</string>
     <string name="hh13a">15 کان 49 سال جي عمر جي عورتن جي تعداد</string>
-    <string name="hh13a_info">) تولیدی عمر کی خاتون (ماں) کا نام اور بچوں کی تعداد کو اس تعداد کے مطابق دہرایا جائے گا(</string>
     <string name="hh14">ڇا ھن گهر ۾ 10 کان 19 سال جي عمر جا نوجوان(ڇوڪري/ڇوڪرو) رھائش پذير آھي (شآدي شدھه/غير شادي)
 شدھه(؟</string>
     <string name="hh1401">ھا</string>
