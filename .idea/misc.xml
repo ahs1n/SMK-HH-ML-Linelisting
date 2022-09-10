@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Office Work/SMK-HH-ML-Linelisting/app/src/main/res/layout/activity_family_listing.xml" value="0.534375" />
+        <entry key="..\:/Android Office Work/SMK-HH-ML-Linelisting/app/src/main/res/layout/activity_lock.xml" value="0.534375" />
+        <entry key="..\:/Android Office Work/SMK-HH-ML-Linelisting/app/src/main/res/layout/activity_login.xml" value="0.5578125" />
         <entry key="..\:/Android Office Work/SMK-HH-ML-Linelisting/app/src/main/res/layout/activity_section_a.xml" value="0.5578125" />
       </map>
     </option>

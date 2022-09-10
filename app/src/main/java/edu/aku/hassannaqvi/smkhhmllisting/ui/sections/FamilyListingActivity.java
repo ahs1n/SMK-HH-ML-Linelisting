@@ -288,4 +288,10 @@ public class FamilyListingActivity extends AppCompatActivity {
       /*  finish();
         startActivity(new Intent(this, MainActivity.class));*/
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        MainApp.lockScreen(this);
+    }
 }
