@@ -43,8 +43,8 @@ public class SectionBActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setTheme(MainApp.sharedPref.getString("lang", "0").equals("1") ? R.style.AppThemeUrdu
-                : MainApp.sharedPref.getString("lang", "0").equals("2") ? R.style.AppThemeEnglish1
+        setTheme(MainApp.selectedLanguage == 1 ? R.style.AppThemeUrdu
+                : MainApp.selectedLanguage == 2 ? R.style.AppThemeEnglish1
                 : R.style.AppThemeSindhi);
 
         //setTheme(MainApp.langRTL ? R.style.AppThemeUrdu : R.style.AppThemeSindhi);
